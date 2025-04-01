@@ -1,5 +1,5 @@
 # 🚀 ArrayStack Implementation in C++
-[![LICENSE](https://img.shields.io/badge/ЛІЦЕНЗІЯ-important?style=flat-square&color=FF6600)](./LICENSE.txt)
+[![LICENSE](https://img.shields.io/badge/LICENSE-important?style=flat-square&color=FF6600)](./LICENSE.txt)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)]()
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)]()
