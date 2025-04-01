@@ -52,8 +52,8 @@ g++ main.cpp -o stack_app -Wall -Wextra
 <pre>
 📦&nbsp;StackWithArray
 ├──&nbsp;📜&nbsp;main.cpp&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;Core&nbsp;logic
-├──&nbsp;📄&nbsp;README.md&nbsp;&nbsp;#&nbsp;Documentation
-└──&nbsp;📄&nbsp;LICENSE&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;MIT&nbsp;License
+├──&nbsp;📄&nbsp;README.md&nbsp;&nbsp;&nbsp;#&nbsp;Documentation
+└──&nbsp;📄&nbsp;LICENSE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;MIT&nbsp;License
 </pre>
 
 
