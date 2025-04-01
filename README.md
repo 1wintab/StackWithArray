@@ -1,6 +1,6 @@
 # 🚀 ArrayStack Implementation in C++
 
-[![License](https://img.shields.io/badge/License-blue.svg?style=flat)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](LICENSE)
 [![C++17](https://img.shields.io/badge/C++-17-00599C?logo=cplusplus)](https://en.cppreference.com/)
 [![Platform](https://img.shields.io/badge/Windows-Linux-macOS-888888)]()
 
@@ -17,9 +17,8 @@
 | 🔍 **Bonus** | Includes palindrome checker demo |
 
 ## 🛠️ Tech Stack
-
-struct Stack 
-{
+```cpp
+struct Stack {
     int Data[MAX_STACK_SIZE]{};  // 🧠 Smart initialization
     int top = -1;                // 📍 Stack pointer
     
@@ -27,7 +26,7 @@ struct Stack
     int Pop();                   // ⬇️ O(1) removal
 };
 
-🚀 Quick Start
+##🚀 Quick Start
 
 # Compile
 g++ main.cpp -o stack_app -Wall -Wextra
@@ -35,7 +34,7 @@ g++ main.cpp -o stack_app -Wall -Wextra
 # Run
 ./stack_app
 
-# 🟢 Stack Operations:
+## 🟢 Stack Operations:
 
 1) 📥 Push element  
 2) 📤 Pop element  
@@ -45,18 +44,18 @@ g++ main.cpp -o stack_app -Wall -Wextra
 6) 🔄 Palindrome check  
 7) 🚪 Exit
 
-# 📂 Project Structure
+## 📂 Project Structure
 
-# 📦 ArrayStack
+## 📦 ArrayStack
 ├── 📜 main.cpp         # Core logic
 ├── 📄 README.md        # You're here!
 └── 📄 LICENSE          # MIT License
 
-#🌟 Why This Stands Out
+## 🌟 Why This Stands Out
  * 🧼 Clean code with consistent formatting
  * 📝 Well-documented operations
  * 🔄 Palindrome check shows practical application
  * 🎨 User-friendly console interface
 
-# 📜 License
+## 📜 License
 MIT © 2023 - See LICENSE for details.
