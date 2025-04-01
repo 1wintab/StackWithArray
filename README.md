@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](LICENSE)
 [![C++17](https://img.shields.io/badge/C++-17-00599C?logo=cplusplus)](https://en.cppreference.com/)
-[![Platform](https://img.shields.io/badge/Windows-Linux-macOS-888888)]()
+[![Platform](https://img.shields.io/badge/OS-Windows%2FLinux%2FmacOS-blue)]()
 
 ✨ **A clean, efficient array-based stack implementation** with interactive CLI  
 
@@ -28,11 +28,13 @@ struct Stack {
 ```
 ## 🚀 Quick Start
 
+```bash
 # Compile
 g++ main.cpp -o stack_app -Wall -Wextra
 
 # Run
 ./stack_app
+```
 
 ## 🟢 Stack Operations:
 
