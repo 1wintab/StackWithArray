@@ -50,9 +50,9 @@ g++ main.cpp -o stack_app -Wall -Wextra
 ## 📂 Project Structure
 
 📦 StackWithArray  
-├── 📜 main.cpp          # Core logic<br>
-├── 📄 README.md         # You're here!<br>
-└── 📄 LICENSE           # MIT License<br>
+├── 📜 main.cpp          # Core logic 
+├── 📄 README.md         # You're here! 
+└── 📄 LICENSE           # MIT License 
 
 ## 🌟 Why This Stands Out
  * 🧼 Clean code with consistent formatting
