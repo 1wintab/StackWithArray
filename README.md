@@ -1,8 +1,8 @@
 # 🚀 ArrayStack Implementation in C++
 
-[![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE.txt)
-[![C++](https://img.shields.io/badge/C++-17-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.cppreference.com/)
-[![Platform](https://img.shields.io/badge/Platform-Windows_Linux_macOS-FF6600?style=for-the-badge&logo=windowsterminal&logoColor=white)]()
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)]()
+[![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)]()
 
 ✨ **A clean, efficient array-based stack implementation** with interactive CLI  
 
