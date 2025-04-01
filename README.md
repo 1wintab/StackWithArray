@@ -1,6 +1,6 @@
 # 🚀 ArrayStack Implementation in C++
 
-[![License](https://img.shields.io/badge/License.txt-MIT-blue.svg?style=flat)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](LICENSE.txt)
 [![C++17](https://img.shields.io/badge/C++-17-00599C?logo=cplusplus)](https://en.cppreference.com/)
 [![Platform](https://img.shields.io/badge/OS-Windows%2FLinux%2FmacOS-blue)]()
 
