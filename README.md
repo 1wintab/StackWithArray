@@ -18,7 +18,8 @@
 
 ## 🛠️ Tech Stack
 ```cpp
-struct Stack {
+struct Stack 
+{
     int Data[MAX_STACK_SIZE]{};  // 🧠 Smart initialization
     int top = -1;                // 📍 Stack pointer
     
@@ -49,9 +50,10 @@ g++ main.cpp -o stack_app -Wall -Wextra
 ## 📂 Project Structure
 
 📦 StackWithArray
-├── 📜 main.cpp         # Core logic
-├── 📄 README.md        # You're here!
-└── 📄 LICENSE          # MIT License
+
+├── 📜 main.cpp         # Core logic  
+├── 📄 README.md        # You're here!  
+└── 📄 LICENSE          # MIT License  
 
 ## 🌟 Why This Stands Out
  * 🧼 Clean code with consistent formatting
