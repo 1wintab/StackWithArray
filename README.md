@@ -64,4 +64,4 @@ g++ main.cpp -o stack_app -Wall -Wextra
  * 🎨 User-friendly console interface
 
 ## 📜 License
-MIT © 2023 - See LICENSE for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
