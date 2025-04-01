@@ -25,8 +25,8 @@ struct Stack {
     void Push(int value);        // ⬆️ O(1) insertion
     int Pop();                   // ⬇️ O(1) removal
 };
-
-##🚀 Quick Start
+```
+## 🚀 Quick Start
 
 # Compile
 g++ main.cpp -o stack_app -Wall -Wextra
