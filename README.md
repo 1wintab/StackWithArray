@@ -27,15 +27,9 @@ struct Stack
     int Pop();                   // ⬇️ O(1) removal
 };
 ```
-## 🚀 Quick Start
-
-```bash
-# Compile
-g++ main.cpp -o stack_app -Wall -Wextra
-
-# Run
-./stack_app
-```
+# 🚀 Getting Started
+ 
++ **Simple! Dobble click the `StackWithArray.exe` file. 😀**
 
 ## 🟢 Stack Operations:
 
