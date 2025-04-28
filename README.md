@@ -29,7 +29,7 @@ struct Stack
 ```
 # 🚀 Quick Start
 
- + Simple! Dobble click the `ParseTreeExplorer.exe` file. 😀
+ + Simple! Dobble click the `StackWithArray.exe` file. 😀
 
    [![start](https://i.imgur.com/LfA3E0z.png)](https://github.com/1wintab/StackWithArray/raw/refs/heads/master/StackWithArray.exe)
 
