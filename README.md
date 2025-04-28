@@ -31,7 +31,7 @@ struct Stack
 
  + Simple! Dobble click the `ParseTreeExplorer.exe` file. 😀
 
-   ![start](https://i.imgur.com/0udBGjn.png)
+   ![start](https://i.imgur.com/LfA3E0z.png)
 
 ## 🟢 Stack Operations:
 
