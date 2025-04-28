@@ -27,9 +27,11 @@ struct Stack
     int Pop();                   // ⬇️ O(1) removal
 };
 ```
-# 🚀 Getting Started
- 
-+ **Simple! Dobble click the `StackWithArray.exe` file. 😀**
+# 🚀 Quick Start
+
+ + Simple! Dobble click the `ParseTreeExplorer.exe` file. 😀
+
+   ![start](https://i.imgur.com/0udBGjn.png)
 
 ## 🟢 Stack Operations:
 
